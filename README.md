@@ -17,4 +17,5 @@ Now it's time to branch out. Literally. Your team will choose one of the Cryptid
 * Include at least 3 additional images of your cryptid
 * One of your images should float
 * Create a two column list of facts about your Cryptid
-* Create an intake form for sightings of your Cryptid. Ask for the time, date, location, and a drop down for whether it was found on land, at sea, or in the air. 
+* Create an intake form for sightings of your Cryptid. Ask for first and last name, email address, time, date, location, and radio buttons for whether it was found on land, at sea, or in the air. 
+* In the form, using only HTML, put focus on the first name field.
