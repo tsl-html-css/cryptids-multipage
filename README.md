@@ -12,7 +12,7 @@ Now it's time to branch out. Literally. Your team will choose one of the Cryptid
 
 ### Technical requirements:
 
-* Use a body class to make the nav "active" on your page.
+* Use a body class to make your Cryptid's name in the nav "active" on your page.
 * The first section of your page should be a full-screen image of your Cryptid with its name overlayed on top.
 * Include at least 3 additional images of your cryptid
 * One of your images should float
