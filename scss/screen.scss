@@ -3,6 +3,7 @@ body {
     background: url(/img/bokeh.jpg) no-repeat 0 0;
     background-attachment: fixed;
     padding-top:80px;
+    font-size: 18px;
 }
 
 /* TAGLINE*/
@@ -99,6 +100,32 @@ body {
             top: 3px;
         }
     }
+}
+
+// ADDED STYLING FOR SPLASH AT TOP OF PAGE
+
+.splash {
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    min-height: 100%;
+    position: relative;
+    h1 {
+        text-align: center;
+        color: white;
+        font-size: 144px;
+    }
+}
+
+.top.splash {
+    padding: 240px 0;
+    background-image: url('/img/concept_kraken.jpg');
+}
+
+.bottom.splash {
+    padding: 100px 0;
+    background-image: url('/img/kraken_ship.jpg');
 }
 
 /* CREATURES */
